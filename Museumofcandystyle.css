@@ -1,0 +1,114 @@
+body {
+    background: #f5d9d6;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+.Candy h2 {
+    color: #ea1c2c;
+    font-weight: 100;
+    font-size: 2.5rem;
+
+}
+.Candy p {
+    color: #e72b6d;
+    font-size: 1.125rem;
+    font-size: 22px;
+    line-height: 2.5;
+}
+
+
+#mainNavbar .navbar-brand {
+    color: #ea1c2c;
+   
+    
+}
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+
+#mainNavbar  {
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+
+#mainNavbar  .nav-link {
+    color: white;
+}
+#mainNavbar  .nav-link:hover {
+    color: #ea1c2c;
+}
+
+
+#headingGroup span {
+    color: #ea1c2c;
+}
+
+#headingGroup h1 {
+    font-weight: 200;
+    font-size: 3rem;
+
+}
+
+
+.navbar.scrolled {
+    background: rgb(245, 176, 204);
+    transition: 1s;
+}
+
+.first{
+    order: 2;
+}
+
+.lead {
+    order: 2;
+}
+
+.third {
+    order: 1;
+    
+}
+.Candy{
+    order: 2;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+p {
+    background-color: rgb(241, 188, 208);
+}
+p:hover {
+    background-color: blanchedalmond;
+    font-size: 25px;
+}
+
+.letter {
+    color: blueviolet;
+    font-size: 30px;
+    font-family: 'Inconsolata', monospace;
+}
+
+h2:hover {
+    font-size: 22px;
+    transition: 4s;
+}
+
+.loll:hover {
+    width: 10px;
+    height: 15px;
+}
+
+.name {
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 45px;
+    color: rgb(185, 104, 233);
+    
+}
+
+
+
